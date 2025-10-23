@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url-here.com/banner.png" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Bharat2044/Bharat2044/main/assets/header.png" alt="Banner" width="100%"/>
 </p>
 
 <!-- Typing SVG -->
