@@ -10,9 +10,6 @@
 
 ---
 
-### 🏫 Currently Learning
-I’m currently learning **NodeJs**.
-
 ### 💬 Ask Me About
 - Frontend Development  
 - MERN & JAVA Full Stack Development  
